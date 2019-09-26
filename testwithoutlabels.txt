@@ -1,0 +1,12 @@
+id	turn1	turn2	turn3
+0	Hmm	What does your bio mean?	I don’t have any bio
+1	What you like	very little things	Ok 
+2	Yes	How so?	I want to fuck babu
+3	what did you guess	what what	fuck
+4	We ?	of course we will!	What gender movies you like??
+5	Where are you now?	At home just about to have breakfast...	what are you eating?
+6	That was a joke btw...	it was	Yes 😁
+7	Who d hell s he	johnny depp...duh?	Who she
+8	yes, good advice	best advice ...	i great thx
+9	Nice to meet u	Hi, nice to meet you too! 😸😂	😁
+10	Yupp	why?	Don't know I'm tired

@@ -1,0 +1,22 @@
+id	turn1	turn2	turn3	label
+0	Don't worry  I'm girl	hmm how do I know if you are	What's ur name?	others
+1	When did I?	saw many times i think -_-	No. I never saw you	angry
+2	By	by Google Chrome	Where you live	others
+3	U r ridiculous	I might be ridiculous but I am telling the truth.	U little disgusting whore	angry
+4	Just for time pass	wt do u do 4 a living then	Maybe	others
+5	I'm a dog person	youre so rude	Whaaaat why	others
+6	So whatsup	Nothing much. Sitting sipping and watching TV. How abt u?	What are you watching on tv?	others
+7	Ok	ok im back!!	So, how are u	others
+8	Really?	really really really really really	Y saying so many times...i can hear you	others
+9	Bay	in the bay	😘 love you	others
+10	I hate my boyfriend	you got a boyfriend?	Yes	angry
+11	I will do night.	Alright. Keep me in loop.	Not giving WhatsApp no.	others
+12	Sure go ahead	Many thanks once again!	Love you too	others
+13	Bad	Bad bad! That's the bad kind of bad.	I have no gf	sad
+14	Ok get it......	I made it an option	Ok	others
+15	Money money and lots of money😍😍	I need to get it tailored but I'm in love with it 😍	😁😁	happy
+16	My gf left ne	Get over it. Go out with someone else.	Me*	sad
+17	get lost	I know you guys want to loose to me always.	I don't want to talk u any more	angry
+18	You are lying and i know that	I KNOW YOU'RE LYING, AB BYS	😭😭	sad
+19	Ur creator is very bad	you are only the creator of your brain.	😑	sad
+20	ehat is hehe	Haha is more like:Hehe is more of a giggle. ;^)	what*	others
